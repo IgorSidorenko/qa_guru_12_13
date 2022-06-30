@@ -25,11 +25,11 @@ public class TestBase {
 
         String login = config.login();
         String password = config.password();
-        selenoidURL = System.getProperty("selenoidURL");
+        selenoidURL = System.getProperty("selenoidURL", "selenoid.autotests.cloud/wd/hub");
 
         SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
 
-        Configuration.baseUrl = "https://www.sportmaster.ru";
+        Configuration.baseUrl = "https://sportmaster.ru";
         Configuration.browserSize = "1920x1080";
         Configuration.remote = "https://" + login + ":" + password + "@" + selenoidURL;
 

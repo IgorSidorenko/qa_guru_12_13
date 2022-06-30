@@ -10,11 +10,11 @@ import static io.qameta.allure.Allure.step;
 
 public class SearchTests extends TestBase {
 
-    String searchWord = "Рюкзаки";
+    String searchWord = "рюкзаки";
 
     @Test
     @DisplayName("Поиск заданной категории товара в каталоге")
-    public void categoryShouldBeFound() {
+    public void goodsCategoryShouldBeFound() {
         step("Открыть главную страницу", () -> open("/"));
         step("Ввести в строку поиска " + searchWord, () ->
                 $("[placeholder=\"Поиск\"]")

@@ -13,7 +13,7 @@ public class OpenArticleTest extends TestBase {
     @DisplayName("Открытие статьи: Как научиться бегать")
     public void FoundText() {
         step("Открыть главную страницу", () -> open("/"));
-        step("Нажать на кнопку Читать", () -> $(".yk_btn_main").click());
+        step("Нажать на кнопку Читать", () -> $("#span.yk_slot10-block_text-btn").click());
         step("Проверить, что статья про бег открыта ", () -> $("[data-selenium=\"stk-reset\"]")
                         .should(Condition.text(" Научиться бегать медленно "))
                         .should(Condition.visible));

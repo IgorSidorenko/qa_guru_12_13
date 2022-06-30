@@ -19,7 +19,7 @@ public class ChangeCityTests extends TestBase {
         step("Открыть главную страницу", () -> open("/"));
         step("Открыть форму выбора города", () -> $("[data-selenium=\"cityButton\"]").click());
         step("Ввести название города", () -> $("[data-selenium=\"top-cities-list\"]").$(byText(city)).click());
-        sleep(1500);
+        sleep(3000);
         step("Проверить, что город изменился", () -> $("[data-selenium=\"cityButton\"]")
                 .should(Condition.text(city))
                 .should(Condition.visible));
