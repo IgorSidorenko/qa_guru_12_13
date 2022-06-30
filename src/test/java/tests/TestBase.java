@@ -30,7 +30,7 @@ public class TestBase {
         SelenideLogger.addListener("AllureSelenide", new AllureSelenide());
 
         Configuration.baseUrl = "https://www.sportmaster.ru";
-        Configuration.browserSize = "1440x900";
+        Configuration.browserSize = "1920x1080";
         Configuration.remote = "https://" + login + ":" + password + "@" + selenoidURL;
 
         DesiredCapabilities capabilities = new DesiredCapabilities();
