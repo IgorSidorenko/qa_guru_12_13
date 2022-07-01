@@ -129,7 +129,7 @@ clean test
 
 > К каждому тесту в отчете прилагается видео. Одно из таких видео представлено ниже.
 <p align="center">
-  <img title="Selenoid Video" src="https://jenkins.autotests.cloud/job/IgorSidorenko_lesson13/10/allure/data/attachments/483f86d26b6e2684.html">
+  <img title="Selenoid Video" src="images/gif/example.gif">
 </p>
 
 :blue_heart: <a target="_blank" href="https://t.me/igorsid">t.me/igorsid</a>
