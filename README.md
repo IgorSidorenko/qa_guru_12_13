@@ -119,7 +119,7 @@ clean test
 > P.S. Тесты на проде это плохо  :heart:
 
 <p align="center">
-<img title="Allure Behaviors" src="images/screenshots/allure _bug.jpeg">
+<img title="Allure Behaviors" src="images/screenshots/allure_bug.jpeg">
 </p>
 
 ### :pushpin: Основной дашборд
