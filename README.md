@@ -112,16 +112,6 @@ clean test
 <img title="Allure Overview" src="images/screenshots/allure_Overview.png">
 </p>
 
-### :pushpin: Страница с тестами
-
-> Тест специально спроектирован на падение, для наглядности.
-> 
-> P.S. Тесты на проде это плохо  :heart:
-
-<p align="center">
-<img title="Allure Behaviors" src="images/screenshots/allure _bug.png">
-</p>
-
 ### :pushpin: Основной дашборд
 
 <p align="center">
