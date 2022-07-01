@@ -129,7 +129,7 @@ clean test
 
 > К каждому тесту в отчете прилагается видео. Одно из таких видео представлено ниже.
 <p align="center">
-  <img title="Selenoid Video" src="images/gif/.gif">
+  <img title="Selenoid Video" src="images/gif/example.gif">
 </p>
 
 :blue_heart: <a target="_blank" href="https://t.me/igorsid">t.me/igorsid</a>
