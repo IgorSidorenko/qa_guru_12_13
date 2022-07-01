@@ -10,7 +10,7 @@ public class OpenArticleTest extends TestBase {
 
     @Test
     @DisplayName("Открытие статьи: Как научиться бегать")
-    public void FoundText() {
+    public void foundText() {
         step("Открыть статью: Как научиться бегать", () -> open("/media/articles/28972154/"));
         step("Проверить, что статья про бег открыта ", () -> $(".strong").shouldHave(exactText("Научиться бегать медленно")));
 
