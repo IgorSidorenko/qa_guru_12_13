@@ -101,7 +101,7 @@ clean test
 ## <img width="4%" title="Jenkins" src="images/logo/Jenkins.svg"> Главная страница сборки Jenkins
 
 <p align="center">
-  <img src="images/screenshots/main_jenkins.jpeg">
+  <img src="images/screenshots/main_jenkins.png">
 </p>
 
 ## <img width="4%" title="Allure Report" src="images/logo/Allure_Report.svg"> Отчет о результатах тестирования в Allure Report
@@ -109,7 +109,7 @@ clean test
 ### :pushpin: Главная страница Allure-отчета
 
 <p align="center">
-<img title="Allure Overview" src="images/screenshots/allure_Overview.jpg">
+<img title="Allure Overview" src="images/screenshots/allure_Overview.png">
 </p>
 
 ### :pushpin: Страница с тестами
@@ -119,20 +119,20 @@ clean test
 > P.S. Тесты на проде это плохо  :heart:
 
 <p align="center">
-<img title="Allure Behaviors" src="images/screenshots/allure_bug.jpeg">
+<img title="Allure Behaviors" src="images/screenshots/allure _bug.png">
 </p>
 
 ### :pushpin: Основной дашборд
 
 <p align="center">
-<img width="30%"  title="Allure Overview Dashboard" src="images/screenshots/graphs.jpg">
+<img width="30%"  title="Allure Overview Dashboard" src="images/screenshots/graphs.png">
 </p>
 
 ## <img width="4%" title="Telegram" src="images/logo/Telegram.svg"> Уведомления в Telegram с использованием бота
 
 > После завершения сборки бот, созданный в <code>Telegram</code>, автоматически обрабатывает и отправляет сообщение с отчетом.
 <p align="center">
-<img width="30%"  title="Telegram Notifications" src="images/screenshots/telegram_bot.jpg">
+<img width="30%"  title="Telegram Notifications" src="images/screenshots/telegram_bot.png">
 </p>
 
 ## <img width="4%" title="Selenoid" src="images/logo/Selenoid.svg"> Пример запуска теста в Selenoid
