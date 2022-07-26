@@ -125,7 +125,7 @@ clean test
 <img width="30%"  title="Telegram Notifications" src="images/screenshots/telegram_bot.png">
 </p>
 
-## <img width="4%" title="Selenoid" src="images/logo/Selenoid.svg"> Пример запуска теста в Selenoid
+## <img width="4%" title="Selenoid" src="images/logo/Selenoid.svg"> Пример запуска теста
 
 > К каждому тесту в отчете прилагается видео. Одно из таких видео представлено ниже.
 <p align="center">
